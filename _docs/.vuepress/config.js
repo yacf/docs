@@ -11,15 +11,8 @@ module.exports = {
         sidebar: [
             {
                 title: "YACF",
-                path: "/home/",
+                path: "/",
                 collapsable: false,
-            },
-            {
-                title: "Getting Started",
-                path: "/start/",
-                collapsable: false,
-                sidebarDepth: 3,
-                children: ["/start/deployment"]
             }
         ]
     }
